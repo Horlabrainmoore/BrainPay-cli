@@ -36,7 +36,7 @@
   ],
   "dependencies": {
     "@inkeep/ai-api": "0.8.0",
-    "@inquirer/prompts": "5.1.0",
+    "@inquirer/prompts": "7.0.0",
     "clipboardy": "4.0.0",
     "commander": "12.1.0",
     "open": "10.1.0",
